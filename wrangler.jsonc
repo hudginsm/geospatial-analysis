@@ -1,7 +1,0 @@
-{
-  "name": "geospatial-analysis",
-  "compatibility_date": "2026-02-08",
-  "assets": {
-    "directory": "./food-scores"
-  }
-}

@@ -1,0 +1,4 @@
+name = "geospatial-analysis"
+main = "./food-scores/main.py" # Set your entry point here
+compatibility_flags = [ "python_workers" ]
+compatibility_date = "2026-02-07"
