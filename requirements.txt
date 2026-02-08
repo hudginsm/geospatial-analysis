@@ -7,3 +7,5 @@ folium
 mapclassify
 matplotlib
 flask
+js
+workers
